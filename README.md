@@ -1,7 +1,6 @@
 Here is the scripts for <a href="https://captainsalih.github.io/">My personal page</a>
 
 This page has used the HTML/CSS template of Landed by @ajlkn taken from <a href="http://html5up.net">HTML5 UP</a> with some modifications
-
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license) with some modifications
 
 Credits:
